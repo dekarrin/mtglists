@@ -1,0 +1,8 @@
+1x Champion Of Wits (TC21:006) // Eldrazi (TC21:001)
+1x Elephant (TC21:013) // Frog Lizard (TC21:014)
+1x Boar (TC21:012) // Hydra (TC21:016)
+1x Beast (TC21:011) // Insect (TC21:017)
+1x Kraken (TC21:004) // Wurm (TC21:019)
+1x Whale (TC21:005) // Beast (TC21:010)
+1x Fish (TC21:003) // Beast (TC21:010)
+3x Fractal (TSTX:003) // Copy (TC21:030)
