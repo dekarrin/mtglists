@@ -1,7 +1,6 @@
 2x Soldier (TM21:005)
 1x Knight (TM21:004)
 1x Angel (TM21:001)
-1x Rat (TGTC:002)
 1x Zombie (TM21:007)
 1x Dwarf Berserker (TKHM:012)
 1x Spirit (TSTX:006)
